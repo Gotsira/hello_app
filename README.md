@@ -6,4 +6,4 @@ This is the first application for the
 
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 
-by Sirsath Piyapootinun. Hello, world!
+by Sirsath Piyapootinu. Hello, world!
